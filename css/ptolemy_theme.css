@@ -44,3 +44,7 @@ li a {
 li a:hover {
 	background-color: #0C0032;
 }
+
+.active_navbar_link {
+	background-color: black;
+}
